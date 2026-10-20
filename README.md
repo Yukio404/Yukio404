@@ -72,8 +72,6 @@ STATUS: IN PROGRESS
 
 06 — ASCII SPACE
 
-Escolha a arte que quiser para representar seu perfil. O desenho abaixo é apenas um exemplo: você pode substituir todo o bloco por outra arte ASCII.
-
              .----------------.
             / .--------------. \
            / /                \ \
