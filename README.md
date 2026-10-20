@@ -71,15 +71,18 @@ STATUS: IN PROGRESS
 <div align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Yukio404&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&hide_title=true" alt="GitHub statistics"/><br/><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukio404&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="Most used languages"/></div>
 
 06 — ASCII SPACE
- 　　　 　　/＾>》, -―‐‐＜＾}
+<div align="center">
+　　　 　　/＾>》, -―‐‐＜＾}
 　　　 　./:::::::/,≠´:::::;::::::::ヽ.
 　　　　/:::::::〃::::::::::／}::::丿ハ
 　　　 ./:::::::::i{l|:::::／　ﾉ／ }::::::}   .ᐟ.ᐟ
-　　    /:::::::::::瓜イ⸝⸝o　 ´  O, ':::::ﾉ 
+　　    /:::::::::::瓜イ⸝⸝o　 ´  O, ':::::ﾉ
 　     ./:::::::::::::|ﾉﾍ.{､　 ヮ_.ノﾉイ
 　     |:::::::::::::::| ／,}｀ｽ/￣￣￣￣/
- 　    |::::::::::::::::|(_::::つ/             /　　
-            ￣￣￣￣￣＼/＿＿＿＿/             
+ 　    |::::::::::::::::|(_::::つ/             /
+            ￣￣￣￣￣＼/＿＿＿＿/
+
+</div>
 07 — CONNECT
 
 <div align="center">""GitHub" (https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000)" (https://github.com/Yukio404)
