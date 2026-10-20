@@ -1,18 +1,12 @@
 <div align="center">
 
+YUKIO404
 
-██╗   ██╗██╗   ██╗██╗  ██╗██╗ ██████╗
-██╗ ██╔╝██║   ██║██║ ██╔╝██║██╔═══██╗
- ╚████╔╝ ██║   ██║█████╔╝ ██║██║   ██║
-  ╚██╔╝  ██║   ██║██╔═██╗ ██║██║   ██║
-   ██║   ╚██████╔╝██║  ██╗██║╚██████╔╝
-   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝
+DEVELOPER IN PROGRESS
 
-"Y U K I O 4 0 4"
+TECHNOLOGY / SOFTWARE / EXPLORATION
 
-"DEVELOPER IN PROGRESS" · "TECH ENTHUSIAST"
-
-" GitHub " (https://github.com/Yukio404) / " Projects " (https://github.com/Yukio404?tab=repositories)
+ GitHub  (https://github.com/Yukio404) ·  Repositories  (https://github.com/Yukio404?tab=repositories)
 
 </div>
 
@@ -29,7 +23,7 @@ Interested in software, AI, Linux and digital design.
 $ echo $MINDSET
 curiosity > comfort
 
-"01 — ABOUT"
+01 — ABOUT
 
 Sou um estudante de tecnologia construindo minha base em programação e desenvolvimento de software.
 
@@ -37,13 +31,13 @@ Tenho interesse em inteligência artificial, sistemas operacionais, interfaces d
 
 Atualmente, estou no começo da minha jornada. Meu objetivo é evoluir de forma consistente, construir um portfólio e conquistar minha primeira oportunidade na área de tecnologia.
 
-"02 — STACK"
+02 — STACK
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="Programming languages and web technologies"/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tools"/></div><sub>TECHNOLOGIES I'M EXPLORING</sub>
 
 HTML · CSS · JavaScript · Python · Git · Linux
 
-"03 — PROJECTS"
+03 — PROJECTS
 
 01. Desktop AI Companion
 
@@ -61,7 +55,7 @@ Pequenos projetos para praticar programação, interfaces e fundamentos do desen
 
 Os nomes acima são descrições dos projetos planejados, não links para repositórios específicos.
 
-"04 — CURRENT OBJECTIVES"
+04 — CURRENT OBJECTIVES
 
 [ RUNNING ] Programming fundamentals
 [ RUNNING ] Web development
@@ -72,9 +66,11 @@ Os nomes acima são descrições dos projetos planejados, não links para reposi
 
 STATUS: IN PROGRESS
 
-"05 — GITHUB ACTIVITY"
+05 — GITHUB ACTIVITY
 
-<div align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Yukio404&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&hide_title=true" alt="GitHub statistics"/><br/><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukio404&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="Most used languages"/></div>"06 — ASCII SPACE"
+<div align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Yukio404&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&hide_title=true" alt="GitHub statistics"/><br/><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukio404&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="Most used languages"/></div>
+
+06 — ASCII SPACE
 
 Escolha a arte que quiser para representar seu perfil. O desenho abaixo é apenas um exemplo: você pode substituir todo o bloco por outra arte ASCII.
 
@@ -92,7 +88,7 @@ Escolha a arte que quiser para representar seu perfil. O desenho abaixo é apena
                _____||_____
               /____________\
 
-"07 — CONNECT"
+07 — CONNECT
 
 <div align="center">""GitHub" (https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000)" (https://github.com/Yukio404)
 
